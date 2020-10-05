@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\STSNX\source\repos\RealSFML\RealSFML\main.cpp(39,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\STSNX\source\repos\RealSFML\RealSFML\main.cpp(94,54): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\STSNX\source\repos\RealSFML\RealSFML\main.cpp(95,55): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\STSNX\source\repos\RealSFML\RealSFML\main.cpp(96,57): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\STSNX\source\repos\RealSFML\RealSFML\main.cpp(97,59): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\STSNX\source\repos\RealSFML\RealSFML\main.cpp(98,60): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+C:\Users\STSNX\source\repos\RealSFML\RealSFML\main.cpp(172,65): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\STSNX\source\repos\RealSFML\RealSFML\main.cpp(57,82): warning C4390: ';': empty controlled statement found; is this the intent?
+  RealSFML.vcxproj -> C:\Users\STSNX\source\repos\RealSFML\Debug\RealSFML.exe
